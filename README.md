@@ -12,3 +12,9 @@ w02
 leap.cpp
 
 sec.cpp
+
+w03
+
+BMI.cpp
+
+sec.cpp
